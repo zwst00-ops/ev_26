@@ -1,0 +1,6 @@
+{
+  "name": "공사비 변동분석 & 설계변경 관리 도구",
+  "description": "건설 프로젝트의 설계 변경 및 공종별 공사비 증감 내역을 시각화하고 분석하는 전문 도구입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
